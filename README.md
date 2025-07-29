@@ -11,7 +11,7 @@ To run this bot on your machine, follow these steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YourUsername/JDA-Example-Bot.git
+   git clone https://github.com/Zolqid/JDA-Example-Bot.git
    ```
 
 2. **Fill in the `config.yml` file**
